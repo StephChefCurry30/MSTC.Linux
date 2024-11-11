@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Created by Leo
 groups=('Sales' 'HumanResources' 'TechnicalOperations' 'Helpdesk' 'Research')
 
 #echo "\$0=$0"
